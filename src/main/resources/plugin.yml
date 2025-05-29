@@ -1,0 +1,5 @@
+name: WetFarmlandForever
+version: '1.0.0'
+main: winlyps.wetFarmlandForever.WetFarmlandForever
+api-version: '1.20'
+authors: [ Winlyps ]
